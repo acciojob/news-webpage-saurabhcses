@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+body{
+	background-color : #f5f5f5;
+}
+header{
+	background-color: #011e29;
+	width:100%;
+	padding:10px;
+	
+}
+h1{
+	color:white;
+	text-align: center;
+	position:center
+}
+.holder {
+  display: flex;        
+  align-items: flex-start;  
+	
+        
+}
+.latest-news-section{
+	background-color:white;
+	text-align: center;
+	padding:20px;
+	width:100px;
+	border-radius:20px;
+}
+.pictorial-news-section{
+	background-color:white;
+	text-align: center;
+	padding:20px;
+	width:100px;
+	border-radius:20px;
+}
+.item{
+	background-color:white;
+	text-align: center;
+	padding:20px;
+	width:100px;
+	border-radius:20px;
+}
+image{
+	width:10px;
+	hei
+}
