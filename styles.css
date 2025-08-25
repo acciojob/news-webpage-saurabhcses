@@ -6,6 +6,7 @@ header{
 	background-color: #011e29;
 	width:100%;
 	padding:10px;
+	text-align:center;
 	
 }
 h1{
@@ -16,6 +17,7 @@ h1{
 .holder {
   display: flex;        
   align-items: flex-start;  
+gap:10px;
 	
         
 }
@@ -39,8 +41,4 @@ h1{
 	padding:20px;
 	width:100px;
 	border-radius:20px;
-}
-image{
-	width:10px;
-	hei
 }
